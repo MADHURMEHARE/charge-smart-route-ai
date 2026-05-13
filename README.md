@@ -3,6 +3,7 @@
 ## Project info
 
 **URL**: https://lovable.dev/projects/562b507b-7993-4734-be8e-5820ff2fee97
+ [https://charge-smart-route-ai.onrender.com/]
 
 ## How can I edit this code?
 
